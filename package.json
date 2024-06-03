@@ -32,7 +32,7 @@
     "ws": "^6.1.2"
   },
   "devDependencies": {
-    "@types/chai": "4.3.1",
+    "@types/chai": "4.3.4",
     "@types/express": "4.17.13",
     "@types/fs-extra": "8.1.2",
     "@types/lodash": "4.14.182",
@@ -41,7 +41,7 @@
     "@types/tmp": "0.2.3",
     "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.34.0",
-    "chai": "4.3.6",
+    "chai": "4.3.7",
     "eslint": "7.32.0",
     "fs-extra": "9.1.0",
     "lodash": "4.17.21",
